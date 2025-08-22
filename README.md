@@ -1,6 +1,5 @@
 # 📂 My Portfolio
 Here is a list of projects, grouped by type:
-*Each one is a separate repository 
 
 - **Machine Learning Models**
   - [Predicción de churn con XGBoost] WIP 
