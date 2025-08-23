@@ -2,7 +2,8 @@
 Here is a list of projects, grouped by type:
 
 - **Machine Learning Models**
-  - [Predicción de churn con XGBoost] WIP 
+  - [Predicción de churn con XGBoost] WIP
+  - [Bitcoin price regression Analysis](https://github.com/Altercon114/Bitcoin-price-regression/tree/main)
     
 - **Business Analytics**
   - [Segmentación RFM de clientes] WIP 
